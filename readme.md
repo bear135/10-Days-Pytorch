@@ -1,5 +1,6 @@
 ## 10일 만에 익히는 파이토치 딥러닝  
-https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=381034779&srsltid=AfmBOophKOwAEAyk7VhH-7kmGcwn7zS_5Dnr-9pBHV2vKrv7lOaY-PRy 
+- Book: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=381034779&srsltid=AfmBOophKOwAEAyk7VhH-7kmGcwn7zS_5Dnr-9pBHV2vKrv7lOaY-PRy
+- Colab : https://drive.google.com/drive/folders/1qVLD8yGd1eIusj7fEwdrT1cFktCpu9oM  
 
 ### 1부 딥러닝 기초 with 파이토치  
 - 1일 차 머신러닝 모델링 빠르게 정리하기  
